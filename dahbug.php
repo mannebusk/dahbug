@@ -1324,4 +1324,3 @@ class dahbug
     }
 }
 
-dahbug::init();
